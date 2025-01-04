@@ -21,3 +21,5 @@ Multithreaded Server:The server handles multiple clients concurrently, ensuring 
 Broadcast Messaging:Messages sent by one client are broadcast to all other connected clients via the server.
 
 Output of the task
+![Server](https://github.com/user-attachments/assets/45e87757-0e22-45b2-ab3f-42c707cb28aa)
+![Client](https://github.com/user-attachments/assets/7b812e04-0f09-45f9-aec6-dc2889e8828a)
